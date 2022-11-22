@@ -65,7 +65,7 @@ section{
     padding: 2rem 9%;
     background: rgb(250, 221, 180);
     box-shadow: gray;
-    height: 8vw;
+    height: 65px;
     
 }
 
@@ -73,6 +73,8 @@ section{
     font-size: 28px;
     font-weight: bolder;
     color:var(--black) ;
+    height: 60px;
+    width: 60px;
 }
 
 .header .logo i {
