@@ -172,9 +172,7 @@ section{
     margin: 1rem 0;
 }
 
-.header .shopping-cart .box img{
-    height: 10rem;
-}
+
 
 .header .shopping-cart .box .fa-trash{
     font-size: 2rem;
@@ -394,6 +392,7 @@ section{
     padding:1rem 0;
 }
 
+/* Review */
 .review .review-slider{
     padding:1rem;
 }
@@ -500,22 +499,6 @@ section{
     color: #fff;
 }
 
-.footer .box-container .box .email{
-    width: 100%;
-    margin:.7rem 0;
-    padding:1rem;
-    border-radius: .5rem;
-    background: #eee;
-    font-size: 1.6rem;
-    color:var(--black);
-    text-transform: none;
-}
-
-.footer .box-container .box .payment-img{
-    margin-top: 2rem;
-    height: 3rem;
-    display: block;
-}
 
 .footer .credit{
     text-align: center;
