@@ -271,7 +271,11 @@ section{
     align-items: center;
     width: 100%;
 }
-
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
 
 
 .home{
